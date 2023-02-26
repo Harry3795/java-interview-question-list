@@ -1,0 +1,4 @@
+
+school project adimission tab button when click on button project name school admission 2022 and 2023 and when click on adimisiion show 9 th or 10th class
+
+in 9th class 100 vacancies and 10th class 100 vacancies and shows remains vacanies also using bar graph / charts in pyhton using programs.

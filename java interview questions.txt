@@ -1,0 +1,169 @@
+What is JDK?
+Which is the latest Version of Java?
+What is the Advantage of Java?
+Javac and Java commands are available in which folder?
+What is the signature of main method?
+What is keyword?List some keywords
+What is an identifier?
+what are literals?
+Java is Platform independent.Explain
+What is JRE?
+What is a Variable?
+Mention all the primitive data types in java
+What are primitive variables?
+What are Reference Variables?
+What is String in java?
+What is a method?
+General Syntax for a method?
+What is Method Overloading?
+Why Method Overloading?
+What are members?
+What are static members?
+what are non static members?
+List out the differences between static and non-static members?
+what is an Object?
+What is a class?
+What are Global variables?
+How can you access static global variable of a class?
+How can you accesss non-static global variables of a class
+what will be the default value for global variables?
+What will be the default value for reference variables?
+what is the default value for boolean variable?
+What are the differences between local and global variable?
+How can you declare constant variables in java?
+can we just declare a final global variable?
+What is an SIB?
+When does SIB's get Executed?
+How many times SIB's will be executed in one execution cycle?
+What is an IIB?
+When IIB's will be executed?
+How many times IIB's will be executed in one execution cycle?
+What does a method's return type signifies?
+Can we Develop a method w/o return type?
+What is call by value and call by reference?
+What is a constructor?
+What are two types of constructors?
+What is a default constructor?
+What is this() calling statement?
+What is Recursion?
+Recursion while constructor overloading will result in compile time or run time error
+What is "this" keyword?
+What is instance variable hiding?
+What is the use of this Keyword?
+What is Inheritance?
+What are the different types of inheritance?
+What is extends?
+Does Java support multiple inheritance?
+What is Diamond Problem?
+Why Java Doesn’t support Multiple inheritance?
+What is super() calling statement?
+What is "super" keyword?
+What is the difference between super() and this() calling statement?
+what is the differnce between "super" and "this" keyword?
+What is Method Overriding?
+Can we Override static methods?
+What is an abstract method?
+What is an abstract class?
+Can we instantiate an abstract class?
+What is the rule to be followed by the sub class of an abstract class???
+Can a abstarct class inherit from another abstract class
+Is abstract class 100% abstract? Explain
+What is an interface?
+What is the difference between an abstract class and interface?
+Does abstarct class have constructors? If Yes Why?
+Does interfaces have constructors?
+can we instantiate an interface?
+What is implements keyword?
+can an interface inherit from another interface?
+What is casting?
+what is primitive casting?
+What is auto Widening and Explicit Narrowing?
+What is derived or Object casting?
+What is Auto Upcasting and Explicit Downcasting?
+Can we Achieve Object casting Without inheritance?
+Can we achieve downcasting without upcasting?
+what is polymorphism?
+Explain differernt types of polymorphism?
+What is abstarction?
+What are packages?
+Why Packages?
+What are the different access levels in java? Explain
+What is SingleTon class?
+What is encapsulation?
+Which is the supermost class for all the classes in java?
+Explain "toString()" of Object class
+Explain "hashCode()" of Object class
+Explain "equals()" of Object class
+Can a subclass override all these above methods?
+What is a final method in java?
+What is a final class in java?
+What is the use of finalize() method in java?
+What is the use of clone() method?
+What is a marker interface? Explain and mention atleast two available marker interface
+Strings are immutable in java. Justify
+Can we have inherit the String class. Justify
+Explain the behavior of toString(),hashCode() and equals() method of string class
+What is a String constant pool and non-constant pool?
+What are arrays?
+What is a primitive array?
+What is a derived array?
+What is Boxing and Unboxing?
+What are Wrapper classes?
+What is a collection API/Framework?
+Explain List type of collection?
+Explain Set Type of collection?
+Explain Queue Type of collection?
+list out the differences between List,Set and Queue type of collections? What are exceptions?
+How to handle exception?
+What is checked exceptions?
+What are unchecked exceptions?
+Differents ways of handling checked exceptions?
+What is differece between final, finalize() and finally in java
+How to Write the data into a text file?
+How to read data from a text file?
+What is the use of Scanner class in java?
+How to read the String from the console?
+What are Threads? What is the use of sleep() method in Threads?
+Can we develop final methods in interface?
+can we develop a final abstract class?
+can we develop a static method in abstract class?
+can we just declare a variable in interface without initializing?
+
+
+
+
+Experience  Interview Questions
+
+
+
+what is method overloading
+what is method overriding
+what is polymorphism
+what is abstract class
+what is collection and explain list,set,queue
+reverse a given String "javadeveloper"
+
+input is "dinga and dingi is are so good"    and output shud be "good and dingi dinga are so is"
+      *
+    *  *
+  *  *  *
+*  *  *  *
+
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+
+
+0000000
+0          0
+0          0 
+0          0
+0          0
+0000000
+
+wap to find factorial of a number
+wap to find fibonacci series
+wap to find odd even nnumber
+wap to find prime number
+wap to reverse without 3rd variable

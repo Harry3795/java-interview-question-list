@@ -1,0 +1,756 @@
+JAVA
+
+1.what is constructor?use of constructor in class?
+2.why we  need to compile  a program?
+3.upcasting in java?
+4.polymorphism
+5.singleTon class
+6.overloading method
+
+
+Selenium
+
+1.what is testng?use of testng in framework?
+2.how to handle alert,file upload popups
+3.method overloading in Selenium?
+4.access modifiers public,private,protected use in selenium
+5.What is POM.XML
+6.difference between .xml & .html
+7.handling frames in  selenium
+
+
+
+Indeecom  Global Services  Interview questions
+
+JAVA
+
+1.what is polymorphism?types of polymorphism?
+2.Access Modiefiers(Private,public,protected)
+3.Object life cycle architecture?
+4.singleTON Class?
+5.Innerclass &Anonymous class?
+6.how to print without main method "hello"?
+7.Method overloading & overriding & Inheritance?
+
+Selenium
+
+1.what is selenium webdriver?advantage of against RC,IDE?
+2.How to handle javascript popup?
+3.How to handle iframes?
+4.how to  hadle filedownload popup?
+5.what  is the use of TestngListeners?
+6.what is POM.XML?
+7.what is ant & use in framework?
+
+
+
+HCL -Automation testing and Manual testing
+Automation Testing
+------------------
+1. Write a program to print your name in Java?
+2. In the above program what does public static void main signify?
+3. Write a program to add elements to a list?
+4. What datatype can be added to a List?
+5. How we can specify datatype of specific type in List?
+6. Write a program to iterate through a List?
+7. What is the difference between List and Map?
+9. In Selenium, what is WebDriver - a class or interface?
+10. Why we can't create instance of WebDriver directly?
+11. What is the difference between findElement and findElements? Explain scenario when it is used?
+12. Do you know to create a Framework for test execution ?
+13. What is the version of Selenium used?
+14. In Selenium write code to access FirefoxDriver?
+
+
+Manual Testing
+--------------
+1. What is the difference between Whitebox and Blackbox testing?
+2. What is Agile Methodology? What is Scrum,Sprint?Have you used it?
+3. Who will be involved in Agile testing meeting?
+4. What is DSR ,WSR?(status reports)
+5. Have you done monthly Test plan?
+6. Do you know Web testing?
+7. Write a program to print to select all columns from Employees table and Departments table where Department name is "Testing"
+8. How many years you have in Manual testing,Automation testing?
+9. Have you done testing for Redbus application?
+10. Write out some positive and negative scenarios to test "Add Friend" feature in Facebook?
+11. What is the test design you have used to write test cases?
+12. Imagine you are given a Bank Account Login Page. (userid,password,account no, Submit button). List out two positive scenarios to test it?
+
+
+
+
+EBay:
+
+What all collections you have used
+What is the approch for HybridFW you used to develop.
+Why KeywordDriven framework you have used.
+Why Set<Iterator> you have used for handling window Handles
+Internal Implementation of HashMap,ArrayList and Set Operator if you know ?
+Have you written any Utilities.?
+What will PageObject model will consists of ,how do you specify the elements in it.
+Where all you have used ArrayList,Set and HashMap in your application.
+What kind of dependencies you have added in the Maven and for what
+What is your roles and responsibilities for automation.
+Explain driver.getWindowHandles() in detail,how it will function.
+Explain each usage of collection used in your project
+
+
+
+what is smoke testing?
+how can you test Mouse?
+expline about defect tracking?
+differance between sanity & smoke testing?
+what is compatibility testing?
+What is acceptance testing ?when we do?
+difference between bug & defect?s?
+what is automation test life cycle?
+what is usability testing?
+
+
+
+3. write functional test cases for " you have three field A, B, C and one ok button field can take only two character if by using the fields the triangle is formed then ok button must display valid triangle else invalid triangle.
+5. some logical puzzles he asked like :-
+a> how to measure 4 lt. if u have 2 container of 5 and 3 lt.
+b> 3 bulb and 3 switch puzzle
+c> car parking no. puzzle
+6. what is the use of cookies and cache.
+7. how to remove cookies
+9. if you have opened any web application and it is broken means it has changed its layout and other thing which type of testing you will perform to check this
+
+1)Which application you work on : Web Application or Windows Application?
+2)WAP on java: fibonacci series, reverse a string, reverse a string using recursion?
+3)Maven - What is Maven , Why do we use it and How do we use it
+4)what is maven life cycle?
+5)What is StringBuffer and StringBuilder
+6)Explain Parallel exection using grid ?
+7)Give examples of Polymorphism,Abstraction(simple code explaination)
+8)why do we use singleton class?
+9)Explain your framework
+10)what is the use of PageFactory.initElements?Can we implement it using PageFactory.initElements or @FindBy?
+11)How do we clean the Maven environment?
+12)A particular list of buttons are there?Write the xpath for it?
+13)How do you configure testNG?what do you write in the .bat file?
+
+
+LATEST HAPPIEST MINDS:
+
+Happiest Minds:
+ 1.Explain your prevoius project, ur role
+ 2.how u rate ur self in java?
+ 3.Overloading and Overriding ...when u use overLoading and Overriding.
+ 4.What is singleton and have used singleton concept in ur project ??
+ 5.What is TestNG framework and what annotations u have worked on.
+ 6.Write a syntax for the dataprovider in TestNg?
+ 7.What are the frameworks u are aware of?
+ 8.What are issues u faced in ur project while automation
+ 9.Have u followed the agile methodology??What will u do if u find the bug at the end of the sprint and how fast will u make sure that the bug is fixed and verified.
+ 10.Have u done compatibility testing ?? what all browsers u have used?
+ 11.How do u run the scripts on other browser like IE,Chrome,write the code
+ 12.what are exceptions u have handled in selenium webdriver
+
+***************************************************************************************************************************************************
+Cognizant Interview Question
+
+1.Wat is the diff b/w WebDriver Listerner and TestNG Listener
+2.diff b/w Assert and verify
+3.count only the non duplicate words in the string
+4.Frame Work and advantage of PageFactory classes
+***************************************************************************************************************************************************
+HCL Interview Questions
+
+1.which frame work ur using and explain Framework
+2.Questions on Nested frames Concept (Scenario given)
+3.How ur using Agile Methodology in ur Project?
+4.xpath Syntax
+**************************************************************************************************************************************************
+
+HCL interview Question
+===================================
+1st technical
+From Java
+=============
+1.What is the Difference between final,finally,finalize
+2.what is the difference between Call by value and call by referance
+3.How to find out the length of the string without using length function
+4.How to find out the part of the string from a string
+5.difference between throw & throws
+6.What is binding(Early and Late binding) **
+
+He give Programes
+-----------------------------------
+1.Reverse a number
+2.1,2,3,4,5,65,76,5,,4,33,4,34,232,3,2323,
+find the biggest number among these
+simple string programe.
+what is exception, types of exception
+
+From manual
+----------------------------------
+what is the testcase technique
+why we write test case.
+bug life cycle
+what are the different status of bug
+what is the different between functional and smoke testing
+what is STLC.
+
+from Selenium
+=======================================
+what is testng and its advantage
+how to handle SSl/
+how to handle alert
+how to take screenshot
+give the diagram write a scrpt..
+tell me about Project .What are the challenge face during project
+what is the difference between RC and webdriver
+what is freamwork explain it.
+why we use wait statement.
+
+2nd technical
+he gives a application & tell to write the scenario
+some manual testing concepts.
+===================================
+
+CaterPiller
+
+1.Diff b/w final finally and finalize
+2.how you will avoid object cloneable
+3.wat is synchronize methods
+4.wat finalize method will do
+5.Quesion on Joints
+6.Defect life Cycle
+7.wat is Smoke Testing and Regression testing
+8.Test case Design Techniques
+9.how to run tests parallely in different browsers
+10.Explain hashing technique***
+11.How u will return multiple values in a method
+
+EF Systems
+
+1.how to run tests parallely in different browsers
+2.java program to reverse String
+3.pgm to sort array in ascending order
+4.diff b/w implicit wait and explicit wait
+5.Test case Design Techniques
+6.dif b/w delete drop and truncate
+7.wat is inheritence polymorphism and encapsulation
+8.wat is interface
+
+Happiest Minds
+
+1.Explain ur FramwWork
+2.How u will run tests parallely
+3.pgm to search ipod in flipkart and sort the results in ascending order based on price
+4.give examples for Checked exception and Runtime Exception.
+5.Some time application takes 2 sec to load some time 30 sec some times more than 5 min how u will handle this.**
+6.wat is maven and wat is ant
+
+COGNIZANT Questions:
+
+1. tell me abt urself
+ 2. what is stlc
+ 3. what is test planning
+ 4. defect life cycle
+ 5. what is inheritance
+ 6. method overloading and overriding
+ 7. framework & framework used in the company
+ 8. what is Parametisation and how do you use it in TestNG
+ 9. how do you execute the tests based on priority
+ 10. what are the annotations
+ 11. what is the order of executing the annotations
+ 12. when a test suite is executed in the order
+ 13. Tell me anything about collections
+ 14. interfaces
+ 15. what is the difference between interface and a class
+ 16. what are arrays and list difference between them
+ 17. Is parameterisation possible and how(Tell the coding)
+ 18. how do you check whether a test script is passed or not
+ 19. if a test case fails how will you log the failure and the exception that caused. how will you report the result to your team lead, prj manager and the customer
+ 20. what is the framework you are using for logging the bugs
+ 21. How do you submit all the test scripts, execution results to you TL, PM
+ 22. what is the process followed in you company
+ 23. what is the difference between agile methodology and spiral modal
+ 24. what is requirement traceability matrix
+ 25. how do hover a link which is present on web page which opens a pop up containing a link.how do you click on the link that is in th pop up
+ 26. prgm for reading a excel file
+ 27. how do you initialise a chrome browser
+ 28. SQl-joins,difference between inner joins and outer joins
+ 29. i am having a table which consists of student details,id, marks and how do i fetch the second maximum value from the table
+ 30. I am having two tables one having student id, student name,and the college id and the other table having college id,college name, location now i want to get map these two tables and get the students who are studying in a specific college
+ 31. i want the count of all the students who belongs to same location
+ ---interview questions in cognizant
+
+Infosys Interview Questions:
+
+ 1.Brief Description
+ 2.How will you rate yourself in Selenium.
+ 3.SIDE
+ 4.How will you handle pop-up.
+ 5.Which framework you are using in your project & why.
+ 6.How will you handle java script pop-up.
+ 7.How will you handle SSL issue
+ 8.How will you take screenshot.
+ 9.How will you handle AJAX?Explain it with code.
+ 10.Explain your framework.
+ 11.What is STLC,Test Plan & Defect Life Cycle(Procedure to file a defect)
+ 12.traceability matrix
+ 13.Selenium Grid concepts with code ?RC
+ 14.Project Description
+ 15.Diff between Implicitly Wait and Explicitly Wait
+ 16. When will you stop testing
+ 17.Thread 7 Synchronization in java
+ 18.why you switched three companies in 3 years.
+
+1. What difficulty you faced in Automation?
+
+2. What you do with your code when a new version of browser is launched?
+3. What are the features in your automation code?
+4. How to integrate HPALM/HPQC with Selenium?
+5. How you are sending the emails from framework, as .rar files are blocked in most of the companies?
+6. How code review is done for your code?
+
+
+Erricson:
+
+How selenium will select/click elements on the webpage.
+How you will idenity elements.
+How your testscript will look for login page.
+If you have 10 testscripts,and in each testscript there are 5 TestNGMethods how you will execute.
+If you want to verify data you selected in one Testmethod ,is same displayed in the another testmethod/webpage (Ex:Shopping Cart)
+What is Axes in the X path
+How do you run tests using Testng  (answer:xml)
+How do you execute your fraamework from command prompt
+
+java -cp bin;jars/* org.testng.TestNG <suitename>.xml
+
+
+
+Tavant:
+
+1) Tell me about ur current project and ur role it?
+ 2) Java Oops Concepts?
+ 3) We have two dropdown boxes if we select 1st same will be displaed in 2nd how u test it?
+ 4) We have a table with different colomns if u click on title it will be sorted how u test it is sorted or not?
+ 5) u don't have d.b access if u give data then it will take how u test that data is stored in d.b or not?(Regestration page)
+ 6) i have 8 marbles of same size and color and same weight excepet one..how u find the odd one.?
+ 7) how do u find a perticular word in a statement "Hi how 'are' you"?
+ 8) Testng
+ 9) Jenkins
+ 10)Grid
+ 11)parallel execution in diff browers ?
+ 12) write complete program for..while login it shows "sucess" is displayed or not?
+ 13)frame work?
+ 14)defect life cycle.
+
+
+
+HCL Interview Questions
+
+ 1.which frame work ur using and explain Framework
+ 2.Questions on Nested frames Concept (Scenario given)
+ 3.How ur using Agile Methodology in ur Project?
+ 4.xpath Syntax
+
+
+Happiest Minds
+
+ 1.Explain ur FrameWork
+ 2.How u will run tests parallely
+ 3.pgm to search ipod in flipkart and sort the results in ascending order based on price
+ 4.give examples for Checked exception and Runtime Exception.
+ 5.Some time application takes 2 sec to load some time 30 sec some times more than 5 min how u will handle this.
+ 6.wat is maven and wat is ant
+    Maven is dependance tool (used to download latest jar from internet before running) ANT is Build tool
+ 7.In a String remove duplicate words and duplicate characters.
+ 8.what is checked exception and gve example
+  Exception which are verified by the compiler before the compilation and it makes it mandatory to try-catch or throws.
+   are checked exception example InvalidFormatException, IOException, InterruptedException
+ 9.Script to find ipad in flipkart and the results should store in ascending order
+
+  Tavant
+
+  1..write a code for pagination testing.(need to identify one records in a table)
+  2.how will u handle frames?
+  3.how will u handle calendar popup scenario?
+  4.Explain about TestNG.
+  5.Explain about POM.
+ 6.what are the factors should consider before doing automation?
+
+ CaterPiller
+
+  1.Diff b/w final finally and finalize
+  2.how you will avoid object cloneable
+  3.wat is synchronize methods
+  4.wat finalize method will do
+  5.Quesion on Joints
+  6.Defect life Cycle
+  7.wat is Smoke Testing and Regression testing
+  8.Test case Design Techniques
+  9.how to run tests parallely in different browsers
+  10.Explain hashing technique
+ 11.How u will return multiple values in a method
+
+ EF Systems
+
+  1.how to run tests parallely in different browsers
+  2.java program to reverse String
+  3.pgm to sort array in ascending order
+  4.diff b/w implicit wait and explicit wait
+  5.Test case Design Techniques
+  6.dif b/w delete drop and truncate
+  7.wat is inheritence polymorphism and encapsulation
+ 8.wat is interface
+
+ Cognizant Interview Question
+
+  1.Wat is the diff b/w WebDriver Listerner and TestNG Listener
+     Both are interface but WebDriver listener are triggered when you call webdriver methods like findElement,
+     click etc example-afterClickOn; beforeFindBy.... TestNG Listener are triggered when testng methods are executed such as
+      onTestFailure onFinish..
+  2.diff b/w Assert and verify
+  3.count only the non duplicate words in the string
+ 4.Frame Work and advantage of PageFactory classes
+
+ 3D PLM:
+
+ 1. difference between smoke testing and adhoc testing.
+ 2. difference between integration testing and system testing with examples.
+ 3. write functional test cases for " you have three field A, B, C and one ok button field can take only two character if by using the fields the triangle is formed then ok button must display valid triangle else invalid triangle.
+ 4. difference between http and https?
+ 5. some logical puzzles he asked like :-
+ a> how to measure 4 lt. if u have 2 container of 5 and 3 lt.
+ b> 3 bulb and 3 switch puzzle
+ c> car parking no. puzzle
+ 6. what is the use of cookies and cache.
+ 7. how to remove cookies
+ 8. how to test web application
+ 9. if you have opened any web application and it is broken means it has changed its layout and other thing which type of testing you will perform to check this
+
+
+ What is severity and priority in software testing?
+  What is Stub?
+  What is abstraction ?
+  What is Encapsulation in Java and OOPS with Example
+  What is Functional Testing? What are the Different Techniques used in it
+  Black Box Testing: Types and techniques of BBT
+  SQL Questions
+  What is the difference between inner and outer join? Explain with example.
+  What is the difference between JOIN and UNION?
+  What is the difference between UNION and UNION ALL?
+  What is the difference between WHERE clause and HAVING clause?
+  What is the difference among UNION, MINUS and INTERSECT?
+  What is Self Join and why is it required?
+  How can we transpose a table using SQL (changing rows to column or vice-versa) ?
+  How can we transpose a table using SQL (changing rows to column or vice-versa) ?
+  How to select first 5 records from a table?
+  What is the difference between ROWNUM pseudo column and ROW_NUMBER() function?
+ What are the differences among ROWNUM, RANK and DENSE_RANK?
+
+
+
+ ACI Worldwide Interview Questions
+
+  1st Round-Written Test
+  Java
+  1. What is Polymorphism?
+  2. What is Abstraction?
+  3. Difference between static and non-static members?
+  4. Difference between super and this?
+  5. What is a List and Set?
+  6. What is Encapsulation?
+  7. What is Access Specifies in java?
+  8. Diagram and Asked to write Program?
+
+ Selenium
+
+ 1. Code to select all the check boxes?
+  2. Different Waits in Selenium?
+  3. How do you make sure that Checkbox/Radio button is selected or not? Button Enabled or not?
+  4. How do you handle drop down list?
+  5. Code to select all the options present in multi select list box?
+  6. How to perform drag and drop of element and Right clicking on element?
+  7. How do you handle Alert popup?
+  8. How do you handle element present in Frames? Code to transfer control from frame to main page
+  9. How do u setup profile in Firefox browser?
+  10. What are Annotations?
+  11. Write a code to take screen shot for only failed test scripts?
+  12. Write a code to print number of links present on a webpage?
+  13. Code for Login page and how do u verify whether it is successfully logged in or not using assert?
+
+ 2nd Round – Technical
+
+  1. Introduce yourself?
+  2. STLC?
+  3. What is Interface and Abstract Class?
+  4. Can we create an object of Abstract class?
+  5. What are the types of Automation frameworks we have? Can u explain them?
+  6. What is a sub Query?
+  7. What are Joins?
+  8. Queries on Joins and Sub-Query?
+  9. What is TestNG? Why we use it in Selenium?
+  10. Explain Automation Framework?
+  11. Program on Prime Number?
+  12. SDLC?
+  13. Program to Read and Write data in to Excel Sheet?
+  14. How to Right Click in Selenium?
+  Manager Round
+  1. About Yourself?
+  2. Why Testing U r from Electronics Background right?
+  3. Qualities of Good Test Engineer?
+  4. Challenges in Testing?
+  5. Objectives of Developer and Test Engineer?
+  6. About Family?
+  7. Explain frame Work?
+
+
+
+QSG interview questions
+
+1.Tell me about yourself
+ 2.What is difference between array and string
+ 3.What are different types you have in Microsoft Office
+ 4.How do you create table in MS Office
+ 5.How do you add column to a table
+ 6.what is framework
+ 7.write a prgm for sorting a string
+ 8.Why we go for inheritance
+ 9.what are different types of annotations expl @Groups
+ 10.tell abt your s/m configuration
+
+
+
+
+
+I want to select two different values in two different dropdown list(without using xpath). which has same ID . pls help..
+
+List<WebElement> allListBox = driver.findElements(By.id("jasa"));
+ for(int i=0;i<allListBox.size();i++)
+ {
+ WebElement listBox=allListBox.get(i);
+ Select select=new Select(listBox);
+ select.selectByIndex(i);
+ }
+
+
+HappyestMind& Ness
+
+Selenium
+
+1.Write the syntax of drop down
+2.What is Webdriver-Java interface
+3.What is the current Version of Selinumwebdriver
+4.How to get the text value from text box
+5.StrinG x="ABC";
+ String x="ab"; does it create two objects?
+6.write a program to compare the strings
+7.Class a
+{
+}
+class b extends a
+{
+}
+A a= new A();
+B b=new B();
+A a= new B();
+B a=new A();
+Which is valid and invalid?
+8.How to handle differnt type of pop up.(Wnidow,Alerts,Invisiblepopup)
+9.How to handle DropDown menu
+10. How to handle SSL certificate
+11.How to handle Google search text.
+12. How to handle dynamic text box which contains the 3 numbers, get
+the number and add the three number and add it other text box.
+13.How to handle Ajax Objects
+8.Explain webdriver architecture
+9.Explain File downloading
+10.Explain File attachments other that Auto IT
+11.Write the syntax for finding the row count in dynamic web table
+12.Differnece between class and Interface
+13. What type of class is the string class
+14.WHAT are the differnt methods that are used along with Xpath
+15.Explain Interface
+16 Explain Abstract
+17.What is selenum grid
+18 what is selenium RC
+19.Why is key word drivern frame work only choosen,
+1. how to handle dynamic object
+2. how to work with button which is in div tag and and u have to click
+without using xpath
+3. JVM is dependent or independent platform
+
+4.how many Test script you write in day
+5. describe your framework
+6. how to parameterized your junit
+7.how to handle ssl security
+8. how to handle window pops
+9. diffnct between implicit and explicit
+10.what are the types of assertion and what are assertion in junit
+11.How to handle ssl certificate
+12.What is dom concept
+13.What is the challenges u have faced during Automation
+14What is genrics
+15.What is synchronization
+
+Java
+
+1.JVM is dependent or independent platform
+2.diffn bwhashmap and hash set, set and linkedlist, arraylist and
+vector list , linkedhash set and hashset
+3.abstract and interface
+4.throw and throws
+5.how to split
+6.checked and unchecked exception
+7.how to work with ajax aplication
+8.why sring is immutable
+9.wat is the retruntype of getwindowhandles();
+10.what are the types of assertion and what are assertion in java
+11.differnce between interface and Abstract classes
+12.What is static varaible
+13.what is volatile
+14. what is trainsient
+15.what is the differnece between Final,Finalize and finally
+16.what is the differnce between Public,private and protected
+
+Hi Guys,
+
+Please find Selenium Webdriver add on for Element –locator-for-webdriver(Dynamic Xpath)
+
+https://addons.mozilla.org/en-US/firefox/addon/element-locator-for-webdriv/
+
+
+Click on Add to Firefox
+
+Steps:
+
+1) Right click on webelement and select Xpath
+ or
+ 2) Right click on webelement and select Java locators
+ 3) Click on Xpath and paste it into notepad
+ .
+
+Its very useful to you to develop/create Xpaths and writing the Selenium code.
+ It saves lot of time
+
+Prowareness Interview Questions
+
+1. If there is a priority bug from production how do you address when the Sprint is in progress?
+2. What is the level of involvement of Management in a Scrum team?
+3. After a Sprint ends when the planning for next sprint begins?
+4. Have you created VBA macros to update status of multiple test cases in QC?
+5. I had DB2 exp in resume - so he asked me to write a join query invoving table A & B where only the values from table B be retrieved excluding those rows from B having matching rows in A.
+6. What are the challenges you faced while creating framework?
+7. Have you used Selenium Grid?
+8. Have you run tests in parallel?
+9. How will you wait until all the elements in a page gets loaded, the page is completely dynamic and you cannot guess which will be the last element to load.
+10. When tests run in parallel how will Webdriver know that it has to work on a particular Browser window only?
+11. When you move from one page to another how will you ensure that the proper page is loaded?
+12. How will you drag and drop an element in a webpage?
+13. If the element for which you are waiting for is not loaded, how will you handle the same?
+14. How selenium interacts with Firefox, Chrome and IE (internal aspects)?
+15. Have you used Javascript Executor in your scripting?
+16. Why is main method Static?
+17. Can the main method have return type other than void? (Yes it can, it can have return type int to provide info about successful execution, this info can be used in batch file/shell scripting - interviewers answer)
+18. I was given a Unstable system of a Agile toolkit (its like our Jira) and was aked to list down the scenarios for testing Task Creation and editing the same. Also I was asked to find the bugs.
+19. For the above scenario (point 18), I was asked to automate Task Creation and drag & drop of task from 'To Do' to 'In Progress'. This has to be done alongside with TestNG framework.
+I was given 2hrs for performing point 18 & 19.
+
+Genpact HeadStrong Questions
+
+1. factorial,prime,armstorngnumber,swaping two numbers without temp var--Programs
+2. interface,abstraction,encapsulation
+3. diff between pagefactory n pageobject model
+4. printstacktrace(exception related)
+5. diff between string.equals and string1==string2
+6. normalisation
+7. searching with keyword and copy all the files name into one file
+8. how grid works
+9. how to debug or fix the issue
+10. how to switch from one window to another window
+11. mousemover concept
+12. explain testNG framework
+13. dataprovide,findby annotation
+14. how to do exectuion of second method after first method method exectuion only without giving priority
+15. what is diff between string,string buffer,string builder
+16. diff between method overloading n method overriding
+17. exception means? how do u recongnise where to fix in lengthy code if somewhere exception occurs while executing
+18. diff between list-iterator and iterator
+19. what is hashmap
+20. how do u execute testcases using testng
+21. how do u run batch execution, which one ur using for tht
+22. how to print webtable in same structure on console
+23. how do you switch multiple windows
+24. how do you switch between tabs
+25. How do you find webpage background color
+1. How do you write xpath, if last three characters keeps on changing EX : "abc_ _ _".
+2. Pagefactory concepts.
+3. Collections, list concepts.
+4. Have you involved in Framework developement?
+5. How do you fetch data from webtable in a webpage?
+6. In a webtable, how do you fetch only last column data?
+7. How do you handle dynamic element?
+8. What is concrete method?
+9. Actions, windowhandle and Select concepts.
+10 Are you using any build tool?
+11. Grid concepts.
+12. How much do you rate yourself in Java out of 5?
+13. Which API used to fetch data from excel sheet?
+Telephonic Questions of Happiest Minds..
+1. When do you abstract class and when do you use interfaces.
+2. Have you written / are there any interface in your automation frame work.
+3. How do you run Java Script directly in Web Driver.
+4, If the customer does not want DOM model of automation, what is your suggestion.
+5. tell me about your framework.
+6. How flexible is your framework.
+7. Few Questions on Serialization, Threads and OOPS concepts.
+
+Mind tree
+
+what framework have you worked and used in automation?
+How many methods are there in in your framework libraries?
+What all methods in libraries?
+How many test scripts are there for your application?
+How often do you run your automation test?
+what is getAttribute and getText?
+what is the time taken to run all your scripts?
+what all settings do you do before running your automation test?
+How do you pass values to method?
+who writes the test cases?
+write a script to print the multiples of 5?
+How do change the run time property values of the element?
+How do handle dynamic elements during run time?
+what version of selenium do you use and which is the latest version?
+Suppose a webtable is there with three columns such as combo box,name and id.I want to search a particular id and also check the checkbox for that particular id.How would you do that?
+
+FICO company technical questions for Core Java +Selenium
+
+.what is the default package in java ?
+2.: why we use interface why not abstract class ...what if i implements same method in interface and abstract ....thn ?? any diffrnc??
+3. what are inner classes ..name them ?
+4.in public static void main(String arr[])... what if i replace public with private ........... remove static ........replace void with string
+5.in hash map we have (key and value ) pair , can we store inside a value =(key, value ) again ??
+5. what are variable scope in java (in class , in method , in static block)
+6. what are the oops concept ? explain them each with real world examples
+7.
+8. what is singleton classes ?
+9.what is difference between .equals() , (==) and compare-to();
+10. what is the difference between hash code and equals
+11.write a program to get substring of string ex: javais good ... so result : avais
+12.write a program to reverse the string
+13. wap for binary search
+14.what is the use of package
+15. why we use interface and abstract
+16.we have 2 interface both have print method , in my class i have implemented the print method , how u wil get to know that i have implemented the first interface and how u will use it .. if u want to use it
+17.what is the difference between vector list and arraylist
+18. difference between hashmap and hash table, what is synchronization , how it is achieved
+19. what is the use of collection, when we use it
+20. what is priority queue in collection , what is the use , how u have use in your project
+21.where to use hashmap and hashtable
+22. where u have use the concept of interface and abstract in your framework
+
+HCL Interview Questions.
+
+1. Code for Login page / how do you find and store the Elements / Locators ?
+2. How to use the same Test Script for Localization testing ( for a different language browser / different language settings).
+3. Why do we upcast FirefoxDriver to Webdriver ?
+4. How do you use @parameter Annotation in TestNg ?
+5. How do you use load elements through properties file and run using TestNG ?
